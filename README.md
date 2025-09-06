@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Louwell Jay
 
-I'm a web developer who loves building clean, functional, and scalable systems.  
-When I'm not coding, you’ll probably find me diving into anime & manga, exploring geopolitics, or mining away in Minecraft.  
-I’m also a fan of science explainers like **Kurzgesagt, Veritasium, and TED-Ed**—curiosity fuels my work and play.
+# 👋 Hi, I'm LJ
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=I'm+a+Web+Developer;Anime+%26+Manga+Enthusiast;Minecraft+Fan;Science+%26+Geopolitics+Explorer" alt="Typing SVG" />
+</p>
+
 
 ---
 
