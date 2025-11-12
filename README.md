@@ -45,7 +45,7 @@ I’m also a fan of science explainers like **Kurzgesagt, Veritasium, and TED-Ed
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" width="70" height="70" style="border-radius:15px; margin:10px;" alt="Laragon" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="70" height="70" style="border-radius:15px; margin:10px;" alt="AWS" />
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="70" height="70" style="border-radius:15px; margin:10px;" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="70" height="70" style="border-radius:15px; margin:10px;" alt="Vercel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
