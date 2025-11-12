@@ -23,18 +23,19 @@ I’m also a fan of science explainers like **Kurzgesagt, Veritasium, and TED-Ed
 
 ### 🖼️ Frameworks
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/laravel.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
+  <img src="https://vitejs.dev/logo.svg" width="70" height="70" style="border-radius:15px; margin:10px;" alt="Vite" />
 </p>
 
 ### 📚 Libraries & State Management
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://pinia.vuejs.org/logo.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
-  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/refs/heads/master/.github/logo-dark.svg" width="70" height="70" style="border-radius:15px; margin:10px;" alt="Tailwind" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="70" height="70" style="border-radius:15px; margin:10px;" alt="Tailwind" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
 </p>
@@ -43,7 +44,9 @@ I’m also a fan of science explainers like **Kurzgesagt, Veritasium, and TED-Ed
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
-  <img src="https://raw.githubusercontent.com/leokhoa/laragon/master/images/laragon.png" width="70" height="70" style="border-radius:15px; margin:10px;" alt="Laragon" />
+  <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" width="70" height="70" style="border-radius:15px; margin:10px;" alt="Laragon" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="70" height="70" style="border-radius:15px; margin:10px;" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" width="70" height="70" style="border-radius:15px; margin:10px;" alt="Vercel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
