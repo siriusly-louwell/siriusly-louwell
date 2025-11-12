@@ -57,8 +57,6 @@ I’m also a fan of science explainers like **Kurzgesagt, Veritasium, and TED-Ed
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <!-- Main GitHub Stats -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=siriusly-louwell&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
