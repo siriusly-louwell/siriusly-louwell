@@ -57,10 +57,30 @@ I’m also a fan of science explainers like **Kurzgesagt, Veritasium, and TED-Ed
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=siriusly-louwell&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriusly-louwell&layout=compact&theme=tokyonight" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Main GitHub Stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=siriusly-louwell&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!-- Top Languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriusly-louwell&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img height="160" src="https://streak-stats.demolab.com?user=siriusly-louwell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=siriusly-louwell&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=siriusly-louwell&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views Counter" />
+</p>
+
 
 ---
 
