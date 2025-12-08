@@ -50,6 +50,7 @@ I’m also a fan of science explainers like **Kurzgesagt, Veritasium, and TED-Ed
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/gemini-ai.svg" width="70" height="70" style="border-radius:15px; margin:10px;" alt="Google AI Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" height="70" style="border-radius:15px; margin:10px;" />
 </p>
 
